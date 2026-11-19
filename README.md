@@ -77,6 +77,17 @@ Open `index.html` in your browser or use the VS Code Live Server extension.
 
 Frontend Developer | BCA Student
 
+## Preview
+
+### Homepage
+![NovaDrive Homepage](screenshots/hero.png)
+
+### Vehicle Collection
+![NovaDrive Collection](screenshots/collection.png)
+
+### Contact Section
+![NovaDrive Contact](screenshots/contact.png)
+
 - GitHub: [@VfFayas-hidden](https://github.com/VfFayas-hidden)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/v-f-mohammed-fayas/)
 
